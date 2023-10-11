@@ -34,6 +34,10 @@
         <source xml:lang="en">Sign Up</source>
         <target xml:lang="ar">قم بالتسجيل</target>
       </trans-unit>
+      <trans-unit id="app.translate">
+        <source xml:lang="en">translate</source>
+        <target xml:lang="ar">يترجم</target>
+      </trans-unit>
       <trans-unit id="app.username">
         <source xml:lang="en">Username</source>
         <target xml:lang="ar">اسم المستخدم</target>
