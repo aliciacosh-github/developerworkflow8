@@ -34,10 +34,6 @@
         <source xml:lang="en">Sign Up</source>
         <target xml:lang="ar">قم بالتسجيل</target>
       </trans-unit>
-      <trans-unit id="app.translate">
-        <source xml:lang="en">translate</source>
-        <target xml:lang="ar">يترجم</target>
-      </trans-unit>
       <trans-unit id="app.username">
         <source xml:lang="en">Username</source>
         <target xml:lang="ar">اسم المستخدم</target>
@@ -45,10 +41,6 @@
       <trans-unit id="test">
         <source xml:lang="en">Your chosen password must contain at least 8 characters</source>
         <target xml:lang="ar">يجب أن تحتوي كلمة المرور التي اخترتها على 8 أحرف على الأقل</target>
-      </trans-unit>
-      <trans-unit id="trasfdad">
-        <source xml:lang="en">trasfdad</source>
-        <target xml:lang="ar">تحويل</target>
       </trans-unit>
     </body>
   </file>
