@@ -38,14 +38,6 @@
         <source xml:lang="en">Username</source>
         <target xml:lang="en">Username</target>
       </trans-unit>
-      <trans-unit id="test">
-        <source xml:lang="en">Your chosen password must contain at least 8 characters</source>
-        <target xml:lang="en">Your chosen password must contain at least 8 characters</target>
-      </trans-unit>
-      <trans-unit id="Translate">
-        <source xml:lang="en">Translate</source>
-        <target xml:lang="en">Translate</target>
-      </trans-unit>
     </body>
   </file>
 </xliff>
