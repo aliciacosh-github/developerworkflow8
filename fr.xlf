@@ -18,6 +18,10 @@
         <source xml:lang="en">Already have an account? Log in</source>
         <target xml:lang="fr">Vous avez déjà un compte ? Connectez-vous</target>
       </trans-unit>
+      <trans-unit id="app.newtext">
+        <source xml:lang="en">New text</source>
+        <target xml:lang="fr">Nouveau texte</target>
+      </trans-unit>
       <trans-unit id="app.offers">
         <source xml:lang="en">I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.</source>
         <target xml:lang="fr">Je ne souhaite pas recevoir d'offres exclusives, de promotions, de rappels ou d'autres informations concernant Nekocafé.</target>

@@ -2,6 +2,14 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="global" datatype="plaintext" source-language="en" target-language="en">
     <body>
+      <trans-unit id="app_name">
+        <source xml:lang="en">OTA Example 1</source>
+        <target xml:lang="en">OTA Example 1</target>
+      </trans-unit>
+      <trans-unit id="app_subtitle">
+        <source xml:lang="en">from Phrase</source>
+        <target xml:lang="en">from Phrase</target>
+      </trans-unit>
       <trans-unit id="app.agreement">
         <source xml:lang="en">I have read and agreed to the Nekocafé Terms of Service and Privacy Notice</source>
         <target xml:lang="en">I have read and agreed to the Nekocafé Terms of Service and Privacy Notice</target>
@@ -17,6 +25,10 @@
       <trans-unit id="app.login">
         <source xml:lang="en">Already have an account? Log in</source>
         <target xml:lang="en">Already have an account? Log in</target>
+      </trans-unit>
+      <trans-unit id="app.newtext">
+        <source xml:lang="en">New text</source>
+        <target xml:lang="en">New text</target>
       </trans-unit>
       <trans-unit id="app.offers">
         <source xml:lang="en">I don’t wish to receive exclusive offers, promotions, reminders and more relating to Nekocafé.</source>
@@ -37,6 +49,10 @@
       <trans-unit id="app.username">
         <source xml:lang="en">Username</source>
         <target xml:lang="en">Username</target>
+      </trans-unit>
+      <trans-unit id="hello_world">
+        <source xml:lang="en">Hello World!</source>
+        <target xml:lang="en">Hello World!</target>
       </trans-unit>
     </body>
   </file>
