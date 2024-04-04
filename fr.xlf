@@ -15,7 +15,7 @@
         <target xml:lang="fr">Adresse e-mail</target>
       </trans-unit>
       <trans-unit id="app.login">
-        <source xml:lang="en">Already have an account? Log in</source>
+        <source xml:lang="en">Already have an account? Log in jklk</source>
         <target xml:lang="fr">Vous avez déjà un compte ? Connectez-vous</target>
       </trans-unit>
       <trans-unit id="app.newtext">
