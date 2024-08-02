@@ -18,6 +18,14 @@
         <source xml:lang="en">Email address</source>
         <target xml:lang="en">Email address</target>
       </trans-unit>
+      <trans-unit id="app.example">
+        <source xml:lang="en">this is a string that requires translation</source>
+        <target xml:lang="en">this is a string that requires translation</target>
+      </trans-unit>
+      <trans-unit id="app.key">
+        <source xml:lang="en">new key</source>
+        <target xml:lang="en">new key</target>
+      </trans-unit>
       <trans-unit id="app.login">
         <source xml:lang="en">Already have an account? Log in</source>
         <target xml:lang="en">Already have an account? Log in</target>

@@ -18,9 +18,21 @@
         <source xml:lang="en">Email address</source>
         <target xml:lang="es">Dirección de correo</target>
       </trans-unit>
+      <trans-unit id="app.example">
+        <source xml:lang="en">this is a string that requires translation</source>
+        <target xml:lang="es">esta es una cadena que requiere traducción</target>
+      </trans-unit>
+      <trans-unit id="app.key">
+        <source xml:lang="en">new key</source>
+        <target xml:lang="es">Clave nueva</target>
+      </trans-unit>
       <trans-unit id="app.login">
         <source xml:lang="en">Already have an account? Log in</source>
         <target xml:lang="es">¿Ya tiene una cuenta? Conectarse</target>
+      </trans-unit>
+      <trans-unit id="app.new">
+        <source xml:lang="en"/>
+        <target xml:lang="es">new translation</target>
       </trans-unit>
       <trans-unit id="app.newtext">
         <source xml:lang="en">New text</source>
