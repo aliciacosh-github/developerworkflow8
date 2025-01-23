@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?> +
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2"> +
+  <file original="global" datatype="plaintext" source-language="en" target-language="it"> +
+    <body> +
+      <trans-unit id="app.agreement"> +
+        <source xml:lang="en">Ho letto e accettato i Termini di Servizio e l'Informativa sulla Privacy di Nekocafé</source> +
+        <target xml:lang="it">Ho letto e accettato i Termini di Servizio e l'Informativa sulla Privacy di Nekocafé</target> +
+      </trans-unit> +
+      <trans-unit id="app.email"> +
+        <source xml:lang="en"></source> +
+        <target xml:lang="it"></target> +
+      </trans-unit> +
+      <trans-unit id="app.email.address"> +
+        <source xml:lang="en">Indirizzo email</source> +
+        <target xml:lang="it">Indirizzo email</target> +
+      </trans-unit> +
+      <trans-unit id="app.login"> +
+        <source xml:lang="en">Hai già un account? Hai già un account? Non desidero ricevere offerte esclusive, promozioni, promemoria e altro riguardante Nekocafé. +
+Password +
+La password scelta deve contenere almeno 8 caratteri +
+Iscriviti +
+Nome utente
