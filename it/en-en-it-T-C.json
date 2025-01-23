@@ -1,0 +1,43 @@
+{
+  "welcomeTo": "Benvenuti su", "vetConnectPlus": "VetConnect PLUS",
+  "signIn": "Accedi", "nome utente": "Nome utente", "password": "Password",
+  "policyDisclaimer": "Cliccando su Accedi, accetti i Termini di servizio e l'Informativa sulla privacy dell'app mobile VetConnect PLUS", "privacyPolicy": "Informativa sulla privacy", "Termini del servizio": "Terms of Service",
+  "incorrectLoginCredentials": "Il tuo nome utente o la tua password non sono corretti", "signOutConfirmation": "Sei sicuro di voler uscire dal tuo account?", "signOut": "Esci", "annulla": "Annulla", "impostazioni": "Impostazioni", "account": "Account", "pratica": "Pratica", "oggi": "Oggi", "ieri": "Ieri", "emptyResults": "Nessun risultato da visualizzare", "veterinario": "Veterinarian",
+  "nA": "N/A", "completato": "Tutto completato", "in corso": "Tutto in corso", "differenziale": "Differenziale", "storia": "Valori dei risultati", "report": "Report", "grafico": "Graph",
+  "differentials": "Differentials",
+  "connectionError": "Errore di connessione", "riprova": "Riprova", "labNote": "Lab Note",
+  "rbcRun": "RBC Run",
+  "wbcRun": "WBC Run",
+  "images": "Images",
+  "patientId": "ID paziente", "specie": "Specie", "razza": "Razza", "genere": "Sesso", "età": "Età", "primo": "Primo", "ultimo": "Ultimo", "id": "Client ID",
+  "dotPlotLegend": "Legenda del grafico a punti", "patientName": "{firstName} {lastName}", "descrizionepulsante": "{translation}", "@buttondescription": { "@patientName": { "descrizione": "Una stringa di visualizzazione formattata per il nome e il cognome del paziente.", "placeholders": { "firstName": { "type": "Stringa" }, "cognome": { "tipo": "Stringa" } } }, "patientAge": "{age}e", "@patientAge": { "descrizione": "Una stringa di visualizzazione formattata per l'età del paziente in anni.", "placeholders": { "age": { "type": "String"
+        }
+    }
+  },
+  "showLabels": "Mostra etichette", "paziente": "Paziente", "cliente": "Cliente", "ordinato": "Ordinato", "acquisito": "Al laboratorio", "in esecuzione": "Running",
+  "partial": "Parziale", "annullato": "Cancelled",
+  "statusMessageOrderedTitle": "Non ancora arrivato al laboratorio", "statusMessageOrderedContent": "Per modificare questo ordine, visita il sito web VetConnect PLUS o il software di gestione della tua clinica.", "statusMessageInProcessTitle": "Attualmente in corso", "statusMessageInProcessContent": "Per modificare questo ordine, chiama ", "statusMessageRunningTitle": "Attualmente in esecuzione su IDEXX VetLab Station", "statusMessageRunningContent": "Per conoscere lo stato dei risultati, consultare IDEXX VetLab Station.", "source": "Source",
+  "panelProfile": "Pannello/Profilo", "dataraccolta": "Data di ritiro", "ordine ricevuto": "Ordine ricevuto", "lastUpdated": "Ultimo aggiornamento", "richiesta": "Requisizione #", "acquisizione": "Numero di accesso", "sampleType": "Sample Type",
+  "studyTitle": "Study Title",
+  "studyCreated": "Studio creato", "modalityReflabName": "Laboratori di riferimento IDEXX", "modalityIvlsName": "IDEXX VetLab Station",
+  "modalityRadiologyName": "Diagnostic Imaging",
+  "myDiagnostics": "La mia diagnostica", "unableToMakeSelection": "Impossibile effettuare la selezione", "connectionErrorOccurred": "Si è verificato un errore di connessione durante il tentativo di effettuare la selezione", "ok": "OK",
+  "setUpYourView": "Imposta la mia vista", "noResultsForYourCurrentSettings": "Nessun risultato per le impostazioni correnti", "currentFilters": "Filtri correnti", "veterinarianFilter": "Veterinarian filter",
+  "reasonToToggleVeterinarianFilter": "Attiva per selezionare i nomi dei veterinari che filtreranno le mie diagnosi e le notifiche", "youHaveNotSelectedAnyNames": "Non hai selezionato alcun nome nel filtro veterinario. Aggiorna le impostazioni del filtro per una visualizzazione personalizzata.", "notificationsAreDisabled": "Le notifiche sono disabilitate", "enableNotificationsInYourDeviceSettings": "Abilita le notifiche nelle impostazioni del tuo dispositivo per consentire a VetConnect PLUS di avvisarti.", "goToSettings": "Vai su Impostazioni", "updateFilterSettings": "Aggiorna impostazioni filtro", "notAllDataPointsCouldBeGraphed": "Non tutti i punti dati possono essere rappresentati graficamente", "unableToDownloadFile": "Impossibile scaricare il file", "connectionErrorOccurredWhileTryingToDownloadTheResultPdf": "Si è verificato un errore di connessione durante il tentativo di scaricare il PDF dei risultati", "setUpMyDiagnostics": "Set up My Diagnostics",
+  "selectVeterinarianNamesToFilterResultListAndNotifications": "Seleziona i nomi dei veterinari per filtrare l'elenco dei risultati e le notifiche.", "resultNotifications": "Notifiche dei risultati", "receiveNotifications": "Ricevi notifiche", "supporto": "Supporto", "informazioni": "Informazioni", "novità": "Novità", "visitVetconnectplusCom": "Apri il sito web VetConnect PLUS", "appVersion": "Versione app", "contactCustomerSupport": "Contatta l'assistenza clienti", "emailAppInfoToSupport": "Invia informazioni sull'app tramite e-mail al supporto", "practiceName": "Practice Name",
+  "notificationsOnOff": "Notifications on/off",
+  "personalizationOnOff": "Personalization on/off",
+  "recordOfDoctorsSelectedOnDevice": "Registro dei medici selezionati sul dispositivo", "appVersionNumber": "Numero di versione dell'app", "buildNumber": "Numero build", "osVersion": "OS version",
+  "deviceModel": "Modello dispositivo", "deviceRegion": "Regione del dispositivo", "lingua": "Language",
+  "identifierForVendor": "Identifier for vendor",
+  "channelID": "Channel ID",
+  "emailSubject": "VetConnect PLUS Mobile {sapId}: {practiceName}",
+  "@emailSubject": {
+    "description": "Oggetto di un'e-mail all'assistenza clienti contenente sia l'ID SAP dello studio che il nome", "placeholders": { "sapId": { "type": "Stringa" }, "practiceName": { "tipo": "String"
+          }
+      }
+  },
+  "referenceImage": "Immagine di riferimento", "non letto": "Non letto", "letto": "Read",
+  "markAsUnread": "Segna come non letto", "markAsRead": "Segna come letto", "searchPrompt": "Cerca risultati di laboratorio", "searchHint": "Cerca per nome del paziente, cognome del cliente, ID del paziente, nome del veterinario, numero di richiesta, numero di acquisizione", "searchEmpty": "Nessun risultato trovato", "learnMore": "Scopri di più", "nextStepConsiderations": "Considerazioni sul passaggio successivo", "hideNextStepConsiderations": "Nascondi considerazioni sul passaggio successivo", "showNextStepConsiderations": "Mostra considerazioni sul passaggio successivo", "aboutClinicalDecisionSupportDetail": "Potrebbero sussistere condizioni concomitanti. L'assenza di un avviso non esclude la condizione. Valutare il paziente in modo olistico e considerare tutte le differenze.", "salva": "Save",
+  "decisionIQ": "DecisionIQ",
+  "poweredByIdexxDecisionIQ": "Sviluppato da IDEXX DecisionIQ™"}
