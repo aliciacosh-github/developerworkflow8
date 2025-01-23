@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Esempio OTA 1</string>
+    <string name="app_subtitle">da Phrase</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
