@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global" datatype="plaintext" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="app.agreement">
+        <source xml:lang="en">Ich habe die Nutzungsbedingungen und die Datenschutzerklärung von Nekocafé gelesen und akzeptiere sie.</source><target xml:lang="en">Ich habe die Nutzungsbedingungen und die Datenschutzerklärung von Nekocafé gelesen und akzeptiere</target> sie.
+        
+      </trans-unit>
+      <trans-unit id="app.email">
+        <source xml:lang="en">your@email.com</source>
+        <target xml:lang="en">your@email.com</target>
+      </trans-unit>
+      <trans-unit id="app.email.address">
+        <source xml:lang="en">E-Mail-Adresse</source>
+        <target xml:lang="en">E-Mail-Adresse</target>
+      </trans-unit>
+      <trans-unit id="app.login">
+        <source xml:lang="en">Haben Sie bereits ein Konto?</source></trans-unit></body></file></xliff> Anmelden
+        <target xml:lang="en">Haben Sie bereits ein Konto?</target> Ich<trans-unit id="app.offers"><source xml:lang="en">möchte keine exklusiven Angebote, Aktionen, Erinnerungen und mehr rund um Nekocafé erhalten.</source><target xml:lang="en">Ich möchte keine exklusiven Angebote, Aktionen, Erinnerungen und mehr in Bezug auf Nekocafé erhalten.</target>
+        
+        
+      </trans-unit><trans-unit id="app.password"><source xml:lang="en">Passwort</source><target xml:lang="en">Passwort</target>
+        
+        
+      </trans-unit><trans-unit id="app.pwcharacters"><source xml:lang="en">Ihr gewähltes Passwort muss mindestens 8 Zeichen lang</source> sein Passwort <target xml:lang="en">muss mindestens 8 Zeichen enthalten</target>
+        
+        
+      </trans-unit><trans-unit id="app.signup"><source xml:lang="en">Registrieren</source><target xml:lang="en">Registrieren Registrieren Benutzername</target>
+        
+        
+      </trans-unit><trans-unit id="app.username"><source xml:lang="en">Benutzername</source><target xml:lang="en"></target>
+        
+        
+      </trans-unit>
+      
+      
+      
+      
+      
+      
+    
+  
+
